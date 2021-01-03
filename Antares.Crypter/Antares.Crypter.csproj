@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>Antares.Crypter</PackageId>
+    <Authors>Fikret Musk</Authors>
+    <Version>1.4.0</Version>
+    <Company>Antares Enterprise</Company>
+    <Description>A basic library for asymmetric and symmetric key encryption/decryption or hashing.</Description>
+    <Copyright>Antares Enterprise</Copyright>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageProjectUrl>https://github.com/wgex/Antares.Crypter/</PackageProjectUrl>
+    <PackageIcon>cryptericon.png</PackageIcon>
+    <PackageTags>Crypter Encryption Decryption AES RSA MD5 SHA256 Fikret Antares</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <AssemblyVersion>1.4.0.0</AssemblyVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\Desktop\cryptericon.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="..\..\..\Desktop\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

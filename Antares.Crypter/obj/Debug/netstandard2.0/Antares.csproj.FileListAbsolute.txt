@@ -1,0 +1,9 @@
+C:\Users\fikret\source\repos\Antares\bin\Debug\netstandard2.0\Antares.deps.json
+C:\Users\fikret\source\repos\Antares\bin\Debug\netstandard2.0\Antares.dll
+C:\Users\fikret\source\repos\Antares\bin\Debug\netstandard2.0\Antares.pdb
+C:\Users\fikret\source\repos\Antares\obj\Debug\netstandard2.0\Antares.csprojAssemblyReference.cache
+C:\Users\fikret\source\repos\Antares\obj\Debug\netstandard2.0\Antares.AssemblyInfoInputs.cache
+C:\Users\fikret\source\repos\Antares\obj\Debug\netstandard2.0\Antares.AssemblyInfo.cs
+C:\Users\fikret\source\repos\Antares\obj\Debug\netstandard2.0\Antares.csproj.CoreCompileInputs.cache
+C:\Users\fikret\source\repos\Antares\obj\Debug\netstandard2.0\Antares.dll
+C:\Users\fikret\source\repos\Antares\obj\Debug\netstandard2.0\Antares.pdb
