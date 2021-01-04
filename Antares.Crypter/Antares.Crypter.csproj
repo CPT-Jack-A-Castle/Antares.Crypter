@@ -4,17 +4,19 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>Antares.Crypter</PackageId>
     <Authors>Fikret Musk</Authors>
-    <Version>1.4.0</Version>
+    <Version>1.4.1</Version>
     <Company>Antares Enterprise</Company>
     <Description>A basic library for asymmetric and symmetric key encryption/decryption or hashing.</Description>
     <Copyright>Antares Enterprise</Copyright>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
-    <PackageProjectUrl>https://github.com/wgex/Antares.Crypter/</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/fikret0/Antares.Crypter</PackageProjectUrl>
     <PackageIcon>cryptericon.png</PackageIcon>
     <PackageTags>Crypter Encryption Decryption AES RSA MD5 SHA256 Fikret Antares</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-    <AssemblyVersion>1.4.0.0</AssemblyVersion>
+    <AssemblyVersion>1.4.1.0</AssemblyVersion>
+    <RepositoryUrl>https://github.com/fikret0/Antares.Crypter.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
