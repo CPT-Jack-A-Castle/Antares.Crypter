@@ -1,3 +1,4 @@
+[<img src="icon.png">](https://github.com/fikret0/Antares.Crypter/)
 # Antares.Crypter
  A basic library for asymmetric and symmetric key encryption/decryption or hashing.
 
