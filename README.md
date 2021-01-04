@@ -13,3 +13,12 @@ crypter.Mode = HashMode.MD5;
 
 string test = crypter.Hash("hello!");
 ```
+
+## Modes:
+
+There is 4 modes to crypt/encrypt/hash.
+
+- AES
+- RSA
+- MD5
+- SHA256
