@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Antares.Crypter</id>
+    <version>1.4.2</version>
+    <authors>Fikret Musk</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE.md</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>icon.png</icon>
+    <projectUrl>https://github.com/fikret0/Antares.Crypter</projectUrl>
+    <description>A basic library for asymmetric and symmetric key encryption/decryption or hashing.</description>
+    <copyright>Antares Enterprise</copyright>
+    <tags>Crypter Encryption Decryption AES RSA MD5 SHA256 Fikret Antares</tags>
+    <repository type="git" url="https://github.com/fikret0/Antares.Crypter.git" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\repos\Antares.Crypter\bin\Release\netstandard2.0\Antares.Crypter.dll" target="lib\netstandard2.0\Antares.Crypter.dll" />
+    <file src="E:\repos\Antares.Crypter\nugetpackage\LICENSE.md" target="LICENSE.md" />
+    <file src="E:\repos\Antares.Crypter\nugetpackage\icon.png" target="icon.png" />
+  </files>
+</package>

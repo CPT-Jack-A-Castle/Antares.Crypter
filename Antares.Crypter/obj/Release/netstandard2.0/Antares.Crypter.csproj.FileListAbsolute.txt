@@ -7,3 +7,12 @@ C:\Users\fikret\source\repos\Antares\obj\Release\netstandard2.0\Antares.Crypter.
 C:\Users\fikret\source\repos\Antares\obj\Release\netstandard2.0\Antares.Crypter.csproj.CoreCompileInputs.cache
 C:\Users\fikret\source\repos\Antares\obj\Release\netstandard2.0\Antares.Crypter.dll
 C:\Users\fikret\source\repos\Antares\obj\Release\netstandard2.0\Antares.Crypter.pdb
+E:\repos\Antares.Crypter\bin\Release\netstandard2.0\Antares.Crypter.deps.json
+E:\repos\Antares.Crypter\bin\Release\netstandard2.0\Antares.Crypter.dll
+E:\repos\Antares.Crypter\bin\Release\netstandard2.0\Antares.Crypter.pdb
+E:\repos\Antares.Crypter\obj\Release\netstandard2.0\Antares.Crypter.csprojAssemblyReference.cache
+E:\repos\Antares.Crypter\obj\Release\netstandard2.0\Antares.Crypter.AssemblyInfoInputs.cache
+E:\repos\Antares.Crypter\obj\Release\netstandard2.0\Antares.Crypter.AssemblyInfo.cs
+E:\repos\Antares.Crypter\obj\Release\netstandard2.0\Antares.Crypter.csproj.CoreCompileInputs.cache
+E:\repos\Antares.Crypter\obj\Release\netstandard2.0\Antares.Crypter.dll
+E:\repos\Antares.Crypter\obj\Release\netstandard2.0\Antares.Crypter.pdb

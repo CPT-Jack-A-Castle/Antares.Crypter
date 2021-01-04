@@ -4,30 +4,23 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>Antares.Crypter</PackageId>
     <Authors>Fikret Musk</Authors>
-    <Version>1.4.1</Version>
+    <Version>1.4.3</Version>
     <Company>Antares Enterprise</Company>
     <Description>A basic library for asymmetric and symmetric key encryption/decryption or hashing.</Description>
     <Copyright>Antares Enterprise</Copyright>
-    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
     <PackageProjectUrl>https://github.com/fikret0/Antares.Crypter</PackageProjectUrl>
-    <PackageIcon>cryptericon.png</PackageIcon>
+    <PackageIcon>icon.png</PackageIcon>
     <PackageTags>Crypter Encryption Decryption AES RSA MD5 SHA256 Fikret Antares</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-    <AssemblyVersion>1.4.1.0</AssemblyVersion>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <AssemblyVersion>1.4.3.0</AssemblyVersion>
     <RepositoryUrl>https://github.com/fikret0/Antares.Crypter.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
-  <ItemGroup>
-    <None Include="..\..\..\Desktop\cryptericon.png">
-      <Pack>True</Pack>
-      <PackagePath></PackagePath>
-    </None>
-    <None Include="..\..\..\Desktop\LICENSE">
-      <Pack>True</Pack>
-      <PackagePath></PackagePath>
-    </None>
-  </ItemGroup>
-
+	<ItemGroup>
+		<None Include="nugetpackage\LICENSE.md" Pack="true" PackagePath="" />
+		<None Include="nugetpackage\icon.png" Pack="true" PackagePath="" />
+	</ItemGroup>
 </Project>

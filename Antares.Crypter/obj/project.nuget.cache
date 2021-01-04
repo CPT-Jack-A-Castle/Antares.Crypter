@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DpmUfMbdrNGXH/gz9Kv7d6Vbc1/Y45ediz1lMb2TOek8Dqo70wO1+FbCWFKMJO6A5JcNokNwC65v7Ag2/4bayQ==",
+  "dgSpecHash": "44DSBc4zmytHu8gi1y5sAw6ljemnTBAQgOQaLEBAHUrblOlOwScLUzeQ/na18ZK99dgb3nk8FPSa7UxxuMYxoQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fikret\\Documents\\GitHub\\Antares.Crypter\\Antares.Crypter\\Antares.Crypter.csproj",
+  "projectFilePath": "E:\\repos\\Antares.Crypter\\Antares.Crypter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fikret\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\fikret\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

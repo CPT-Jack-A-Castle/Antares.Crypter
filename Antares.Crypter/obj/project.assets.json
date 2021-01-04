@@ -183,13 +183,13 @@
     "C:\\Users\\fikret\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.4.1",
+    "version": "1.4.3",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fikret\\Documents\\GitHub\\Antares.Crypter\\Antares.Crypter\\Antares.Crypter.csproj",
+      "projectUniqueName": "E:\\repos\\Antares.Crypter\\Antares.Crypter.csproj",
       "projectName": "Antares.Crypter",
-      "projectPath": "C:\\Users\\fikret\\Documents\\GitHub\\Antares.Crypter\\Antares.Crypter\\Antares.Crypter.csproj",
+      "projectPath": "E:\\repos\\Antares.Crypter\\Antares.Crypter.csproj",
       "packagesPath": "C:\\Users\\fikret\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fikret\\Documents\\GitHub\\Antares.Crypter\\Antares.Crypter\\obj\\",
+      "outputPath": "E:\\repos\\Antares.Crypter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fikret\\AppData\\Roaming\\NuGet\\NuGet.Config",

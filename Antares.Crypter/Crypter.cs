@@ -16,7 +16,7 @@ namespace Antares.Crypter
 {
     public class Crypter
     {
-        public static string Mode = "MD5";
+        public string Mode = "MD5";
 
         public Crypter()
         {
